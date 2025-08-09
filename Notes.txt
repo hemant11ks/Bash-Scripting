@@ -1,0 +1,18 @@
+Bash Scripting:
+
+What is Bash?
+Bash stands for Bourne-Again SHell. It's an enhanced version of the original Bourne shell (sh) and is the default shell for most Unix-like operating systems. It acts as a bridge between the user and the operating system, allowing you to execute commands, manage files, and run programs from a command-line interface.
+
+The Purpose of Bash Scripts
+Bash scripts are used to automate repetitive or complex tasks. Instead of typing the same sequence of commands repeatedly, you can write them into a script and run it with a single command. This is useful for things like:
+
+System administration: Automating backups, monitoring system performance, and managing users.
+
+Software development: Compiling code, running tests, and deploying applications.
+
+File management: Renaming, moving, or deleting large numbers of files.
+
+Data processing: Parsing log files or processing data from different sources.
+
+How to Write a Bash Script
+A basic Bash script is a plain text file with a .sh extension. The first line of the script is called the shebang, which tells the operating system which interpreter to use for the script. For Bash, the shebang is #!/bin/bash.
